@@ -1,7 +1,6 @@
 
-passionate software developer 
 <h1 align="center">Hello.. I am Bindu</h1>
-
+passionate software developer 
 
 - 🌱 currently skilled with **Machine learning,Data Analytics,Data Structures and Algorithms, data Science, Big data**
 
