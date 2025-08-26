@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bindu </h1>
 
 # 💫 About Me:
-I am a passionate programmer, who is passionate about app and web development and enjoys learning new programming languages and frameworks and interested in data structures and problem solving.
+I am a passionate programmer, who is passionate about app/web development, data science, Machine learning and enjoys learning new programming languages and frameworks and interested in Data Structures and problem solving.
 
 
 ## 🌐 Socials:
